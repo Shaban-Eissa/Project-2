@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21fb11bd-4b7d-4843-8810-87432cf64fc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fJDvnAWC0WPWXOp21gkAgeVGIC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.contact.html">
+    <configuration name="account.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/account.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="cart.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/cart.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/contact.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="product-details.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Website/product-details.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="JS" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.product-details.html" />
+      <item itemvalue="JavaScript Debug.cart.html" />
+      <item itemvalue="JavaScript Debug.account.html" />
+      <item itemvalue="JavaScript Debug.contact.html" />
+      <item itemvalue="Node.js.JS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.contact.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.account.html" />
+        <item itemvalue="JavaScript Debug.cart.html" />
+        <item itemvalue="JavaScript Debug.product-details.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21fb11bd-4b7d-4843-8810-87432cf64fc2" name="Default Changelist" comment="" />
+      <created>1595927536501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595927536501</updated>
+      <workItem from="1595927538343" duration="12076000" />
+      <workItem from="1595946928500" duration="2240000" />
+      <workItem from="1595956443454" duration="23000" />
+      <workItem from="1596011648893" duration="2468000" />
+      <workItem from="1596024475510" duration="4516000" />
+      <workItem from="1596029183698" duration="420000" />
+      <workItem from="1596032530450" duration="8594000" />
+      <workItem from="1596052630042" duration="2185000" />
+      <workItem from="1596474786854" duration="122000" />
+      <workItem from="1605269402052" duration="175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595928050954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1595928050954" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596053490187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596053490187" />
+    <state x="106" y="118" key="FileChooserDialogImpl" timestamp="1596474902544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="106" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596474902544" />
+    <state width="643" height="220" key="GridCell.Tab.0.bottom" timestamp="1596054832622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="643" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596054832622" />
+    <state width="643" height="220" key="GridCell.Tab.0.center" timestamp="1596054832622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="643" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596054832622" />
+    <state width="643" height="220" key="GridCell.Tab.0.left" timestamp="1596054832622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="643" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596054832622" />
+    <state width="643" height="220" key="GridCell.Tab.0.right" timestamp="1596054832622">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="643" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596054832622" />
+    <state x="0" y="8" key="SettingsEditor" timestamp="1595927903712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595927903712" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596053750127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596053750127" />
+  </component>
+</project>
